@@ -1,0 +1,1 @@
+# SMT - Sparse Merkle Tree
